@@ -20,4 +20,3 @@
 # 4. Resources
  * hawaii.sqlite: database of climate data
  * hawaii_measurements.csv, hawaii_stations.csv: data that is contained in the database
-
